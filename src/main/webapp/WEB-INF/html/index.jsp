@@ -53,8 +53,8 @@ String basePathimg2 = request.getScheme() + "://" + request.getServerName() + ":
 <meta name="author" content="EEIT56-MEETBOTH" />
 <meta name="keywords" content="最棒最優質的家教網" />
 <meta name="copyright" content="肉丸家教網" />
-<link rel="shortcut icon" href="/html/images/meatball-icon.png" />
-<link rel="bookmark" href="/html/images/meatball-icon.png" />
+<link rel="shortcut icon" href="<%=basePathimg%>" />
+<link rel="bookmark" href="<%=basePathimg%>" />
 <link rel="stylesheet" href="<%=basePathAnimation%>">
 <link rel="stylesheet" href="<%=basePath%>" />
 <link
